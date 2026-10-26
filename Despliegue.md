@@ -6,3 +6,4 @@
 2. **Configuración del Proyecto:** Se vinculó el repositorio con la plataforma de nube seleccionada.
 3. **Compilación y Publicación:** Se ejecutó el comando de compilación correspondiente para empaquetar la aplicación web.
 4. **URL Pública:** La plataforma generó de manera automática el enlace HTTPS seguro que permite a los usuarios acceder a la Pokédex sin errores.
+   
